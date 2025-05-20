@@ -10,6 +10,7 @@ const Navbar = () => {
     { title: "About", path: "/about" },
     { title: "Service", path: "/service" },
     { title: "Contact", path: "/contact" },
+    { title: "Blogs", path: "/blogs" },
   ];
 
   const handler = () => {
