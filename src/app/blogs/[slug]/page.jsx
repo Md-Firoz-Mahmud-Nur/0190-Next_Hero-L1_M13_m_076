@@ -1,6 +1,6 @@
 import React from "react";
 
-const BlogsDetailsPage = ({ params }) => {
+const BlogDetailsPage = ({ params }) => {
   console.log(params.slug);
 
   const blogs = [
@@ -49,4 +49,4 @@ const BlogsDetailsPage = ({ params }) => {
   );
 };
 
-export default BlogsDetailsPage;
+export default BlogDetailsPage;

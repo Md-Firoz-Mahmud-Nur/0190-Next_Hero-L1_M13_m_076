@@ -1,7 +1,7 @@
 import React from "react";
 
-const HistoryPage = () => {
+const MissionPage = () => {
   return <div>Mission Page</div>;
 };
 
-export default HistoryPage;
+export default MissionPage;
